@@ -1,2 +1,2 @@
-# shaii
-A Hyperion Discord music bot.
+# Shaii
+Discord music bot.
