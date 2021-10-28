@@ -20,7 +20,7 @@ Shaii is a simple Discord music bot.
   * [forever](https://www.npmjs.com/package/forever): `npm install forever`
 
 ## How to run Shaii
-Go to this [link](https://github.com/hyperion-foundation/shaii/etc/SETUP.md) for further information.
+Go to this [link](https://github.com/hyperion-foundation/shaii/blob/master/etc/SETUP.md) for further information.
 
 ## I need help. What can I do?
 ### Create an issue
