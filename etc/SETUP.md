@@ -3,7 +3,7 @@
 # How to setup & run Shaii
 We give you an easy step-by-step how to setup and run Shaii properly.
 > Important: Please keep in mind, all these steps are done manually and some steps require some developer skills, but you don't need to worry, we will help you if you have a problem while you set up your development environment. 
-We appreciate your efforts and your given time to use our apps/services. If you feeling you have advance in coding, then we don't need to make more explanation.
+We appreciate your efforts and your given time to use our apps/services. If you feeling you have advance skill in coding, then we don't need to make more explanation.
 
 ## Development Environment
 > Before getting started, you need to install 1 text editor and Node.js to your computer.
