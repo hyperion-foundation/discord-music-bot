@@ -1,7 +1,7 @@
 ***This README is not final. All changes may not be informed.***
 
 # Shaii
-Shaii is a simple Discord music bot.
+Prioritizing performance and deliver high-quality Discord music bot.
 
 ## Features
 1. Pause and resume command.
