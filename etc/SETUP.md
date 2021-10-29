@@ -12,7 +12,6 @@ We appreciate your efforts and your given time to use our apps/services. If you 
 [Sublime Text](https://www.sublimetext.com/) - Optional 🤷‍♂️
 Notepad / Notepad++ - Not recommended 🙅‍♂️
 [Node.js](https://nodejs.org/en/) LTS 12 or latest version
-[
 
 ## Shaii Requirements
 
